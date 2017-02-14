@@ -1,0 +1,23 @@
+ table {
+            border-collapse: separate;
+            border-spacing: 50px 0;
+        }
+        
+        td {
+            padding: 5px 0;
+        }
+        
+        #app {
+            border: 2px solid;
+            /*width: 120%;*/
+            /*margin: auto;*/
+            font-size: 20px;
+            background-image: url("w.jpg");
+           
+        }
+        
+        #head {
+            color: saddlebrown;
+            text-align: center;
+            font-size: 23px;
+        }
